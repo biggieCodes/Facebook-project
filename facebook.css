@@ -1,0 +1,80 @@
+*{
+    /* height: auto; */
+    width: auto;
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white
+    ;
+    /* background-image:url("png-transparent-gradient-desktop-color-background-miscellaneous-blue-atmosphere-thumbnail.png"); */
+    background-size: cover;
+   
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    width:400px;
+    background-image: ;
+    padding:30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 650px;
+    margin-top:2px ;
+}
+.main-header{
+    margin-left: 200px;
+    width: 20%; 
+    padding-top: 50px;
+    margin-top: 20px;
+  margin-left: 140px;
+    margin-top: 20px;
+
+}
+.logo{
+
+}
+.bruh{
+   
+}
+form{
+    text-align: center;
+}
+form input {
+    height: 55px;
+    width: 350px;
+    padding: 25px;
+    margin: auto;
+    border-radius: 20px transparent;
+}
+.email{
+    margin-bottom: 15px;
+    /* border-radius: 20px; */
+}
+
+button{
+    
+    border: none;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-color:#3dc23d ;
+    color: white;
+}
+.create{
+    margin-bottom: 20px;
+}
+#signup{
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color:#3b5998 ;
+    width: 350px;
+}
+.crew{
+    /* display: flex; */
+    float: left;
+    margin-left:150px; 
+    margin-top: 50px;
+}
